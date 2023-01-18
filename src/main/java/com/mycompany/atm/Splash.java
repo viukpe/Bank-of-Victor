@@ -38,7 +38,7 @@ public class Splash extends javax.swing.JFrame {
         jLabel2.setIcon(new javax.swing.ImageIcon("/Users/victorukpe/Downloads/atm stock photo.jpg")); // NOI18N
         jLabel2.setText("jLabel2");
 
-        jLabel1.setFont(new java.awt.Font("Gujarati MT", 1, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("GungSeo", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 0, 255));
         jLabel1.setText("BANK OF VICTOR");
 
